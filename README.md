@@ -42,7 +42,7 @@ Se redactaron 3 escenarios probados y documentados en Jira:
 
 ## 📄 Archivo Adjunto
 Puedes consultar el reporte formal completo en formato PDF cargado en este repositorio:
-* 📥 **[Ver / Descargar QA Strategy and Execution Document](./QA%20Strategy%20and%20Execution%20Templ.pdf)**
+* 📥 **📥 **[Ver / Descargar Documento PDF](./QA%20tester%20strategy%20and%20execution.pdf)**(./QA%20Strategy%20and%20Execution%20Templ.pdf)**
 
 ---
 
